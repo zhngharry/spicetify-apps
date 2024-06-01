@@ -1,13 +1,8 @@
 [    {
         "name": "Discovery+",
         "description": "Shuffle your whole music taste and discover new music.",
-        "preview": "filepathFromGitRepo/theme.png",
+        "preview": "discovery-plus/src/previews/icon.png",
         "readme": "README.md",
-        "branch": "main",
-        "authors": [
-            { "name": "zhngharry", "url": "https://github.com/zhngharry" },
-            
-        ],
-        "tags": ["beta", "library"]
+        "tags": ["shuffle", "library"]
     }
-  ]
+]
